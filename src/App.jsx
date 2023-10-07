@@ -7,7 +7,7 @@ function App() {
         <div className="container mx-auto">
           <h1 className="text-2xl font-semibold">My Chat App</h1>
         </div>
-      </header>
+      </header> 
       <main className="container mx-auto py-6">
         <div className="bg-white rounded-lg shadow-lg p-6">
           <h2 className="text-xl font-semibold mb-4">Welcome to My Chat App</h2>
